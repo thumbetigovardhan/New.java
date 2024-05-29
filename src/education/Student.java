@@ -1,6 +1,8 @@
-package Education;
+package education;
 
 public class Student {
+
+String school_name=new String ("Noteric");
     String name;
     String dob;
     String standard;
